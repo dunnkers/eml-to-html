@@ -7,8 +7,8 @@ with open("README.md", "r") as fh:
     setup(
         name="eml-to-html",
         version="0.0.1",
-        py_modules=['eml_to_html'],
-        scripts=['eml_to_html.py'],
+        py_modules=["eml_to_html"],
+        scripts=["eml_to_html.py"],
         entry_points={"console_scripts": ["eml-to-html = eml_to_html:main"]},
         description="Converts `.eml` files to HTML.",
         keywords="",
