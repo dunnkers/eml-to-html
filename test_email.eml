@@ -1,0 +1,2535 @@
+Delivered-To: recipient@gmail.com
+Date: Sat, 30 Apr 2022 20:38:17 +0200 (CEST)
+From: "bol.com" <automail@bol.com>
+To: You <recipient@gmail.com>
+Subject: Bedankt voor je bestelling met bestelnummer 832823723723
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Auto-Submitted: auto-generated
+
+<!doctype html>
+<html> 
+<head>
+<title>Bedankt voor je bestelling met bestelnummer 028327434</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="https://www.bol.com/favicon.ico" type="image/x-icon">
+<style>
+/*
+Generic
+*/
+body{
+height: 100% !important;
+width: 100% !important;
+margin: 0 !important;
+padding: 0 !important;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+table,
+td{
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt;
+}
+img{
+border: 0;
+height: auto;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic;
+}
+table{
+border-collapse: collapse !important;
+}
+a{
+text-decoration: none;
+}
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+div[style*="margin: 16px 0;"]{
+margin: 0 !important;
+}
+/* Showing & hiding */
+.bol-desktop-only{
+display: inline !important;
+}
+.bol-outer-wrapper {
+background: #ffffff;
+}
+/* Sizing */
+.bol-wrapper{
+max-width: 700px;
+}
+.bol-splitter{
+width: 100%;
+font-size: 0;
+}
+.bol-one-third,
+.bol-two-third,
+.bol-half{
+display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+}
+.bol-one-third{
+max-width: 256px;
+}
+.bol-two-third{
+max-width: 444px;
+}
+.bol-half{
+max-width: 350px;
+}
+/* Rows */
+.bol-row{
+background-color: #ffffff;
+padding: 16px 0;
+}
+.bol-horizontal-spacing{
+padding: 0 24px;
+}
+.bol-vertical-spacing{
+padding: 12px 0;
+}
+.bol-box-spacing{
+padding: 24px;
+}
+/* Color scheme */
+.bol-color-01{
+background-color: #90cdfe; /* Default blue */
+}
+.bol-color-02{
+background-color: #f0f6ff; /* Light blue */
+}
+.bol-color-03{
+background-color: #aff2D3; /* Green */
+}
+.bol-color-04{
+background-color: #ffd2ad; /* Orange */
+}
+.bol-color-05{
+background-color: #ffa4eb; /* Pink */
+}
+.bol-color-06{
+background-color: #ffa4b4; /* Red */
+}
+.bol-color-07{
+background-color: #91cdff; /* Kobo Plus picture background */
+}
+.bol-color-08{
+background-color: #aff2d3; /* Select banner background */
+}
+.bol-color-09{
+background-color: #b9dcef; /* Bespaar Continu picture background */
+}
+/* Generic text */
+.bol-heading-1,
+.bol-heading-1-dark{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -2px;
+text-align: left;
+font-size: 30px;
+line-height: 32px;
+}
+.bol-heading-1{
+color: #0000a4;
+padding-bottom: 10px;
+}
+.bol-heading-1-dark{
+color: #0a0a0a;
+}
+.bol-heading-2,
+.bol-heading-2-light{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+}
+.bol-heading-2{
+color: #0a0a0a;
+padding-bottom: 5px;
+}
+.bol-heading-2-light{
+color: #ffffff;
+}
+.bol-heading-3{
+font-family: Arial, 'sans-serif';
+font-weight: bold;
+letter-spacing: -0.6px;
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding-bottom: 2px;
+}
+.bol-intro,
+.bol-intro-dark{
+font-family: Arial, 'sans-serif';
+letter-spacing: -1px;
+text-align: left;
+font-size: 28px;
+line-height: 36px;
+}
+.bol-intro{
+color: #0000a4;
+}
+.bol-intro-dark{
+color: #0a0a0a;
+}
+.bol-large{
+font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+}
+.bol-regular{
+font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;
+}
+.bol-comment{
+font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 12px;
+line-height: 15px;
+color: #828282;
+}
+.bol-bullet{
+width: 12px;
+padding: 4px 0;
+}
+.bol-bullet-text{
+padding: 4px 0;
+}
+.bol-number-list{
+padding-top: 16px;
+}
+.bol-number-list-item{
+padding: 10px 0;
+}
+.bol-number{
+width: 36px;
+}
+.bol-number-image{
+font-family: sans-serif;
+font-size: 16px;
+text-align: center;
+color: #0000a4;
+padding-right: 10px;
+width: 26px;
+height: 26px;
+display: block;
+}
+.bol-number-title{
+font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding: 2px 0;
+}
+.bol-number-text{
+padding: 3px 0;
+}
+/* Butons & links */
+.bol-button-container{
+padding-top: 10px;
+}
+.bol-button-container-in-text{
+padding-bottom: 16px;
+}
+.bol-button{
+font-family: Arial, sans-serif;
+font-size: 16px;
+padding: 15px 24px;
+background-color: #0000ff;
+}
+.bol-button-text{
+color:#ffffff;
+text-decoration:none;
+display:block;
+}
+.bol-link-container{
+padding-top: 16px;
+}
+.bol-link-text{
+color:#0000ff;
+text-decoration:none;
+}
+/* Fluid image */
+.bol-fluid-image{
+width: 100%;
+display: block;
+max-width: 700px;
+}
+.bol-video-comment{
+font-family: Arial, 'sans-serif';
+text-align: center;
+font-size: 12px;
+line-height: 15px;
+color: #828282;
+padding-top: 16px;
+}
+/*
+Components
+*/
+/* Header */
+.bol-header{
+background-color: #0000a4;
+padding: 0;
+}
+/* Footer */
+.bol-footer{
+background-color: #ffffff;
+padding: 32px 0;
+}
+.bol-customer-service{
+background-color: #0000a4;
+padding: 16px 0;
+}
+.bol-icon-medium{
+width: 64px;
+padding-right: 16px;
+vertical-align: top;
+}
+.bol-icon-medium-image{
+width: 64px;
+height: 64px;
+}
+.bol-footer-text{
+font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #ffffff;
+}
+.bol-footer-link{
+color: #fff;
+text-decoration: underline;
+}
+/* Close alert */
+.bol-close-alert-text{
+height: 60px;
+padding-left: 24px;
+}
+.bol-close-alert-icons{
+width: 136px;
+}
+.bol-close-alert{
+width: 68px;
+height: 60px;
+align: center;
+vertical-align: middle;
+padding: 0 4px;
+}
+.bol-close-alert-image{
+width: 60px;
+height: 60px;
+display: block;
+border: none;
+font-family: sans-serif;
+font-size: 24px;
+text-align: center;
+color: #0a0a0a;
+}
+/* Top banner */
+.bol-top-banner{
+background-color: #ffffff;
+padding: 32px 0 16px 0;
+}
+.bol-top-banner-left{
+padding: 24px;
+}
+.bol-top-banner-right{
+padding: 24px;
+}
+/* Calendar */
+.bol-calendar{
+width: 136px;
+height: 103px;
+overflow: hidden;
+vertical-align: middle;
+text-align: center;
+background-color: #ffffff;
+}
+.bol-calendar-day,
+.bol-calendar-month{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+text-align: center;
+font-weight: 900;
+color: #0000a4;
+mso-line-height-rule: exactly;
+width: 136px;
+}
+.bol-calendar-day{
+letter-spacing: -1px;
+font-size: 60px;
+line-height: 60px;
+height: 60px;
+vertical-align: bottom;
+}
+.bol-calendar-month{
+letter-spacing: -0.5px;
+font-size: 18px;
+line-height: 18px;
+vertical-align: top;
+}
+/* Address */
+.bol-address{
+width: 188px;
+height: 54px;
+overflow: hidden;
+vertical-align: middle;
+text-align: center;
+background-color: #0000a4;
+}
+.bol-street-name,
+.bol-street-number{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+text-align: center;
+font-weight: 900;
+color: #ffffff;
+width: 188px;
+mso-line-height-rule: exactly;
+}
+.bol-street-name{
+letter-spacing: -0.5px;
+font-size: 14px;
+line-height: 14px;
+height: 16px;
+vertical-align: top;
+}
+.bol-street-number{
+letter-spacing: -1px;
+font-size: 30px;
+line-height: 30px;
+vertical-align: top;
+}
+/* Kobo Plus & Select */
+.bol-kobo-plus-image,
+.bol-bespaar-continu-image{
+display: block;
+width: 400px;
+height: 280px;
+}
+.bol-select{
+height: 280px;
+vertical-align: middle;
+}
+.bol-select-image{
+display: block;
+width: 320px;
+height: 80px;
+}
+/* Instruction */
+.bol-icon-large{
+width: 152px;
+padding-right: 16px;
+}
+.bol-game-icon{
+width: 152px;
+padding-left: 16px;
+}
+.bol-icon-large-image{
+width: 152px;
+height: 152px;
+}
+.bol-instruction{
+height: auto;
+min-height: 152px;
+}
+.bol-day-names{
+padding-right: 5px;
+}
+/* Gift card */
+.bol-gift-card-banner{
+background-color: #ffffff;
+padding: 0 0 16px 0;
+}
+.bol-gift-card-alt-text{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -2px;
+text-align: center;
+font-size: 30px;
+line-height: 32px;
+color: #0000a4;
+}
+.bol-gift-card{
+width: 100%;
+max-width: 326px;
+}
+.bol-gift-card-value{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -5px;
+text-align: center;
+font-size: 80px;
+line-height: 100px;
+color: #0000a4;
+padding-bottom: 16px;
+}
+.bol-gift-card-label{
+font-family: Arial, 'sans-serif';
+font-weight: bold;
+text-align: center;
+font-size: 16px;
+line-height: 24px;
+color: #0a0a0a;
+padding: 8px 0;
+}
+.bol-gift-card-valid{
+font-family: Arial, 'sans-serif';
+text-align: center;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;
+padding: 8px 0;
+}
+/* Promo codes */
+.bol-promo-full-width,
+.bol-promo-left,
+.bol-promo-right{
+text-align: left;
+vertical-align: top;
+}
+.bol-promo-full-width{
+padding: 9px 2px;
+}
+.bol-promo-left{
+padding: 24px;
+}
+.bol-promo-right{
+padding: 9px 24px 9px 3px;
+}
+.bol-promo-code,
+.bol-promo-code-single,
+.bol-gift-card-code{
+font-family: Arial, 'sans-serif';
+font-weight: bold;
+text-align: center;
+font-size: 15px;
+line-height: 23px;
+color: #0000a4;
+padding: 12px 0 11px 0;
+border: 1px solid #0000ff;
+background-color: #ffffff;
+border-radius: 3px;
+width: 320px;
+}
+/* Barcode */
+.bol-barcode-background {
+background: #ffffff;
+}
+.bol-barcode-wrapper{
+font-size: 0;
+overflow: hidden;
+}
+.bol-barcode{
+display: inline-block;
+font-size: 64px;
+width: 0;
+height: 64px;
+line-height: 64px;
+margin:0;
+padding: 0;
+}
+.bol-barcode .thin{
+border-left: 1px solid #cccccc;
+}
+.bol-barcode .wide{
+border-left: 3px solid #cccccc;
+}
+.bol-barcode .black{
+border-color: #000000;
+}
+.bol-barcode .white{
+border-color: #ffffff;
+}
+.bol-barcode-text{
+font-family: Arial, 'sans-serif';
+text-align: center;
+font-size: 20px;
+line-height: 32px;
+color: #0a0a0a;
+}
+.bol-barcode-comment{
+font-family: Arial, 'sans-serif';
+text-align: center;
+font-size: 12px;
+line-height: 15px;
+color: #828282;
+}
+/*
+Products
+*/
+/* Product list */
+.bol-order-list-item-left{
+padding-left: 24px
+}
+.bol-order-list-item-right{
+padding-right: 24px
+}
+.bol-order-list-item{
+text-align: left;
+width: 116px;
+}
+.bol-order-list-item-tout{
+text-align: center;
+width: 116px;
+}
+.bol-order-list-item-image{
+display: inline-block;
+width: 100px;
+height: 80px;
+padding-right: 16px;
+margin: 0 auto;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;
+}
+.bol-order-list-item-tout-image{
+display: inline-block;
+max-width: 100px;
+max-height: 80px;
+padding-right: 16px;
+margin: 0 auto;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;
+}
+.bol-order-list-item-article,
+.bol-order-list-item-amount,
+.bol-order-list-item-price{
+font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+color: #0a0a0a;
+}
+.bol-order-list-item-seller{
+font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 14px;
+color: #aaaaaa;
+padding-top: 4px;
+}
+.bol-order-list-item-delivery-date{
+font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 14px;
+color: #0000a4;
+padding-top: 10px;
+}
+.bol-order-list-item-has-service-items{
+padding-bottom: 10px;
+}
+.bol-order-list-item-service-container{
+padding: 0 24px 0 142px;
+}
+.bol-order-list-item-service-title,
+.bol-order-list-item-service-bullet,
+.bol-order-list-item-service-text,
+.bol-order-list-item-service-price,
+.bol-order-list-item-service-free{
+font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 18px;
+}
+.bol-order-list-item-service-title,
+.bol-order-list-item-service-bullet,
+.bol-order-list-item-service-text{
+color: #828282;
+}
+.bol-order-list-item-service-bullet{
+width: 10px;
+padding: 0 2px;
+}
+.bol-order-list-item-service-price{
+color: #0a0a0a;
+text-align: right;
+min-width: 75px;
+}
+.bol-order-list-item-service-free{
+color: #01cd6a;
+font-weight: bold;
+text-align: right;
+min-width: 75px;
+}
+.bol-order-list-item-amount{
+text-align: left;
+padding-left: 116px;
+}
+.bol-order-list-item-price{
+text-align: right;
+min-width: 110px;
+}
+/* Product list (Bespaar Continu) */
+.bol-products{
+font-size: 0;
+}
+.bol-product{
+width: 100%;
+max-width: 320px;
+height: 100px;
+}
+.bol-product-list-item{
+text-align: left;
+width: 116px;
+padding: 10px 0;
+}
+.bol-product-list-item-image{
+display: inline-block;
+width: 100px;
+height: 80px;
+padding-right: 16px;
+margin: 0 auto;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;
+}
+.bol-product-list-item-article{
+padding: 10px 16px 10px 0;
+}
+.bol-product-list-item-article-description{
+font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+color: #0a0a0a;
+}
+/* Discounts (Bespaar Continu) */
+.bol-order-list-item-discount-before,
+.bol-order-list-item-discount-after{
+font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -2px;
+font-size: 30px;
+line-height: 32px;
+}
+.bol-order-list-item-discount-before{
+text-align: left;
+padding-left: 116px;
+}
+.bol-order-list-item-discount-after{
+text-align: right;
+min-width: 110px;
+}
+.bol-order-list-item-discount-until,
+.bol-order-list-item-discount-from{
+font-family: Arial, 'sans-serif';
+vertical-align: top;
+font-size: 12px;
+line-height: 14px;
+color: #aaaaaa;
+}
+.bol-order-list-item-discount-until{
+text-align: left;
+padding: 4px 0 0 116px;
+}
+.bol-order-list-item-discount-from{
+text-align: right;
+min-width: 110px;
+padding-top: 4px;
+}
+/* Replacement (Bespaar Continu) */
+.bol-bc-left{
+padding: 0 24px 16px 24px;
+}
+.bol-bc-right{
+padding: 0 24px 16px 24px;
+}
+.bol-bc-title-removed,
+.bol-bc-title-added{
+font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+font-weight: bold;
+padding-bottom: 4px;
+}
+.bol-bc-title-removed{
+color: #fb2f38;
+}
+.bol-bc-title-added{
+color: #1ac657;
+}
+.bol-bc-article{
+padding-right: 16px;
+height: 64px;
+vertical-align: top;
+}
+.bol-bc-frequentie,
+.bol-bc-discount{
+font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 14px;
+color: #aaaaaa;
+padding-top: 4px;
+}
+/* Summary */
+.bol-summary-description,
+.bol-summary-amount,
+.bol-summary-amount-free{
+font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 18px;
+}
+.bol-summary-description{
+text-align: left;
+color: #0a0a0a;
+padding: 4px 0;
+}
+.bol-summary-amount{
+text-align: right;
+padding: 4px 2px 4px 0;
+min-width: 110px;
+}
+.bol-summary-amount-free{
+color: #01cd6a;
+text-align: right;
+padding: 4px 2px 4px 0;
+min-width: 110px;
+font-weight: bold;
+}
+.bol-summary-description-grand-total,
+.bol-summary-amount-grand-total{
+font-family: Arial, 'sans-serif';
+font-size: 16px;
+line-height: 20px;
+color: #0a0a0a;
+font-weight: bold;
+}
+.bol-summary-description-grand-total{
+text-align: left;
+padding-top: 12px;
+}
+.bol-summary-amount-grand-total{
+text-align: right;
+padding: 12px 2px 0 0;
+min-width: 110px;
+}
+/* Product tiles */
+.bol-tiles{
+font-size: 0;
+}
+.bol-tile{
+display: inline-block;
+width: 25%;
+min-width: 156px;
+min-height: 120px;
+text-align: center;
+background-color: #ffffff;
+}
+.bol-tile-image{
+display: inline-block;
+width: 125px;
+height: 100px;
+padding: 10px 14px;
+}
+/*
+Media Queries
+*/
+@media screen and (max-width: 700px) {
+/*
+Generic
+*/
+/* Clears Gmail app gutter */
+u + .bol-body .bol-outer-wrapper {
+width: 100% !important;
+width: 100vw !important;
+}
+/*
+Styling classes, also covered inline until the CSS inliner is ready to use
+*/
+/* Showing & hiding */
+.bol-desktop-only{
+display: none !important;
+}
+/* Sizing */
+.bol-wrapper{
+max-width: none !important;
+}
+.bol-one-third,
+.bol-two-third,
+.bol-half{
+width: 100% !important;
+min-width: 100% !important;
+max-width: 100% !important;
+}
+/* Rows */
+.bol-horizontal-spacing{
+padding: 0 16px !important;
+}
+.bol-box-spacing{
+padding: 16px !important;
+}
+/* Generic text */
+.bol-heading-1,
+.bol-heading-1-dark{
+font-size: 22px !important;
+line-height: 22px !important;
+letter-spacing: -1px !important;
+}
+.bol-intro,
+.bol-intro-dark{
+font-size: 20px !important;
+line-height: 26px !important;
+letter-spacing: normal !important;
+}
+.bol-large{
+font-size: 16px !important;
+line-height: 20px !important;
+}
+/* Butons & links */
+.bol-button-container{
+padding-top: 16px !important;
+}
+/*
+Components
+*/
+/* Close alert */
+.bol-close-alert-text{
+height: auto !important;
+padding: 16px !important;
+text-align: center !important;
+}
+.bol-close-alert-icons{
+margin: 0 auto !important;
+}
+/* Top banner */
+.bol-top-banner{
+padding: 16px 0 !important;
+}
+.bol-top-banner-left{
+padding: 16px !important;
+}
+.bol-top-banner-right{
+padding-top: 8px !important;
+}
+/* Kobo Plus & Select */
+.bol-kobo-plus-image,
+.bol-bespaar-continu-image{
+width: 300px !important;
+height: 210px !important;
+}
+.bol-select{
+height: 210px !important;
+}
+.bol-select-image{
+width: 240px !important;
+height: 60px !important;
+}
+/* Instructions */
+.bol-icon-large,
+.bol-game-icon{
+width: 88px !important;
+}
+.bol-icon-large-image{
+width: 88px !important;
+height: 88px !important;
+}
+.bol-instruction{
+min-height: 88px !important;
+}
+/* Promo codes */
+.bol-promo-full-width{
+padding: 4px 2px 16px 2px !important;
+}
+.bol-promo-left{
+padding: 4px 16px !important;
+}
+.bol-promo-right{
+padding: 4px 16px 16px 16px !important;
+}
+.bol-promo-code,
+.bol-promo-code-single,
+.bol-gift-card-code{
+width: auto !important;
+}
+/*
+Products
+*/
+/* Product list */
+.bol-order-list-item-left,
+.bol-order-list-item-right{
+padding: 0 16px !important;
+}
+.bol-order-list-item-delivery-date{
+padding-bottom: 10px !important;
+}
+.bol-order-list-item-has-service-items{
+padding-bottom: 0 !important;
+}
+.bol-order-list-item-service-container{
+padding: 10px 16px 0 132px !important;
+}
+/* Product list (Bespaar Continu) */
+.bol-product{
+width: 100% !important;
+max-width: none !important;
+}
+/* Discounts (Bespaar Continu) */
+.bol-order-list-item-discount-after,
+.bol-order-list-item-discount-from{
+min-width: 0 !important;
+width: auto !important;
+}
+.bol-summary-description-grand-total,
+.bol-summary-amount-grand-total{
+font-size: 14px !important;
+line-height: 18px !important;
+}
+/* Replacement (Bespaar Continu) */
+.bol-bc-left{
+padding: 0 16px 16px 16px !important;
+}
+.bol-bc-right{
+padding: 16px 16px 0 16px !important;
+}
+.bol-bc-article{
+height: auto !important;
+padding-right: 0 !important;
+}
+}
+@media screen and (min-width: 700px) {
+.bol-image-right {
+float: right;
+}
+}
+@media screen and (max-width: 699px) {
+/* Product tiles */
+.bol-tile{
+min-width: inherit !important;
+width: 33% !important;
+}
+}
+@media screen and (max-width: 480px) {
+/* Product tiles */
+.bol-tile{
+width: 48% !important;
+}
+.bol-tile-image{
+padding: 10px 3px !important;
+}
+}
+@media (prefers-color-scheme: dark) {
+.bol-body {
+background: #ffffff;
+}
+.bol-barcode-background {
+background: #ffffff;
+}
+}
+</style>
+</head>
+<body class="bol-body"
+style=" margin: 0 !important;
+padding: 0 !important;
+background: #ffffff;">
+<div style="display: none;
+font-size: 1px;
+color: #fefefe;
+line-height: 1px;
+font-family: Arial, sans-serif;
+max-height: 0px;
+max-width: 0px;
+opacity: 0;
+overflow: hidden;" id="preheadertext">
+
+Wij gaan direct voor je aan de slag
+
+</div>
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%"
+class="bol-outer-wrapper">
+<tr>
+<td bgcolor="#0000a4"
+align="center"
+class="bol-header"
+style="background-color: #0000a4;
+padding: 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td height="56"
+width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<a href="https://www.bol.com?language=nl"
+target="_blank">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/logo-bol-white.gif"
+width="125"
+height="56"
+border="0"
+alt="bol.com"
+style="font-family: 'Arial Black', Arial, Helvetica, sans-serif;
+font-size: 30px;
+line-height: 30px;
+font-weight: bold;
+color: #ffffff;
+display: block;">
+</a>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<!-- start main content -->
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td align="center"
+class="bol-splitter bol-color-01"
+style=" width: 100%;
+font-size: 0;
+background-color: #aff2D3;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td valign="top" width="444">
+<![endif]-->
+<div class="bol-two-third"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 444px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-top-banner-left"
+style="padding: 24px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td class="bol-heading-1"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -2px;
+text-align: left;
+font-size: 30px;
+line-height: 32px;
+color: #0000a4;
+padding-bottom: 10px;">
+Bedankt Jeroen,
+</td>
+</tr>
+<tr>
+<td class="bol-intro"
+style=" font-family: Arial, 'sans-serif';
+letter-spacing: -1px;
+text-align: left;
+font-size: 28px;
+line-height: 36px;
+color: #0000a4;">
+
+Fijn dat je koos voor bol&zwnj;.com.
+
+
+
+We gaan direct aan de slag!
+
+
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td valign="top" width="256">
+<![endif]-->
+<div class="bol-one-third"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 256px;">
+<table align="center"
+border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-top-banner-right"
+style="padding: 24px">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td align="center">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/illustrations/trolley-animated-v2.gif"
+width="208"
+height="208"
+border="0"
+alt="Illustratie aan de slag"
+style=" font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+Dit heb je besteld
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+
+<tr>
+<td align="center"
+class="bol-splitter"
+style=" width: 100%;
+font-size: 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td valign="top" width="350">
+<![endif]-->
+<div class="bol-half"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 350px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-order-list-item-left"
+style="padding-left: 24px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td width="116"
+align="left"
+valign="top"
+class="bol-order-list-item"
+style="text-align: left;
+width: 116px;">
+<a href="https://www.bol.com/nl/p/-/9200000055060348?Referrer=ENTcli_order_confirmation2008093611&language=nl">
+<img src="https://media.s-bol.com/Y7p2loN20Oj0/250x200.jpg"
+width="100"
+height="80"
+alt="Acaza whiteboard magnetisch - 60x90cm - Wit - Incl. stift, wisser en afleggoot"
+class="bol-order-list-item-image"
+style=" display: inline-block;
+width: 100px;
+height: 80px;
+padding-right: 16px;
+margin: 0 auto;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;">
+</a>
+</td>
+<td align="left"
+valign="top">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td>
+<a href="https://www.bol.com/nl/p/-/9200000055060348?Referrer=ENTcli_order_confirmation2008093611&language=nl"
+class="bol-order-list-item-article"
+style="font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+color: #0a0a0a;">
+
+Acaza whiteboard magnetisch - 60x90cm - Wit - Incl. stift, wisser en a...
+
+</a>
+</td>
+</tr>
+<tr>
+<td class="bol-order-list-item-seller"
+style="font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 14px;
+color: #aaaaaa;
+padding-top: 4px;">
+Gekocht bij Acaza
+</td>
+</tr>
+<tr>
+<td class="bol-order-list-item-delivery-date"
+style="font-family: Arial, 'sans-serif';
+font-size: 12px;
+line-height: 14px;
+color: #0000a4;
+padding-top: 10px;">
+
+Bezorging: uiterlijk 3 mei
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td valign="top" width="350">
+<![endif]-->
+<div class="bol-half"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 350px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-order-list-item-right"
+style="padding-right: 24px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td align="left"
+class="bol-order-list-item-amount"
+style="font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+color: #0a0a0a;
+text-align: left;
+padding-left: 116px;">
+1x
+</td>
+<td align="right"
+width="110"
+class="bol-order-list-item-price"
+style="font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 16px;
+color: #0a0a0a;
+text-align: right;
+min-width: 110px;">
+&euro;&nbsp;32,99
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-box-spacing bol-color-02"
+style="padding: 24px;
+background-color: #f0f6ff;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+
+
+
+
+<tr>
+<td align="left"
+valign="top"
+class="bol-summary-description"
+style=" font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 18px;
+color: #0a0a0a;
+text-align: left;
+padding: 4px 0;">
+Verzendkosten
+
+</td>
+<td align="right"
+valign="top"
+width="110"
+class="bol-summary-amount-free"
+style=" font-family: Arial, 'sans-serif';
+font-size: 14px;
+line-height: 18px;
+color: #01cd6a;
+text-align: right;
+padding: 4px 2px 4px 0;
+min-width: 110px;
+font-weight: bold;">
+Gratis
+</td>
+</tr>
+
+<tr>
+<td align="left"
+valign="top"
+class="bol-summary-description-grand-total"
+style=" font-family: Arial, 'sans-serif';
+font-size: 16px;
+line-height: 20px;
+color: #0a0a0a;
+text-align: left;
+padding-top: 12px;
+font-weight: bold;">
+Totaalbedrag
+</td>
+<td align="right"
+valign="top"
+width="110"
+class="bol-summary-amount-grand-total"
+style=" font-family: Arial, 'sans-serif';
+font-size: 16px;
+line-height: 20px;
+color: #0a0a0a;
+text-align: right;
+padding: 12px 2px 0 0;
+min-width: 110px;
+font-weight: bold;">
+&euro;&nbsp;32,99
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-box-spacing bol-color-02"
+style="padding: 24px;
+background-color: #f0f6ff;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+
+Je hebt betaald
+
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+
+
+
+met <b>iDEAL</b>.
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+Details over je bestelling
+</td>
+</tr>
+
+
+
+<tr>
+<td class="bol-vertical-spacing"
+style="padding: 12px 0;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td valign="top"
+width="168"
+class="bol-icon-large"
+style="width: 156px;
+padding-right: 16px;">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/illustrations/house.gif"
+width="152"
+height="152"
+border="0"
+alt="Illustratie bezorgadres"
+class="bol-icon-large-image"
+style=" width: 152px;
+height: 152px;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;">
+</td>
+<td valign="middle"
+height="152"
+class="bol-instruction"
+style="height: auto;
+min-height: 152px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0">
+<tr>
+<td class="bol-heading-3"
+style=" font-family: Arial, 'sans-serif';
+font-weight: bold;
+letter-spacing: -0.6px;
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding-bottom: 2px;">
+Bezorgadres
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+
+Jeroen Overschie<br>
+
+Ruyschstraat 93 -1<br>
+
+1091 BX Amsterdam<br>
+
+Nederland<br>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+<tr>
+<td class="bol-vertical-spacing"
+style="padding: 12px 0;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td valign="top"
+width="168"
+class="bol-icon-large"
+style="width: 156px;
+padding-right: 16px;">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/illustrations/speech-bubble.gif"
+width="152"
+height="152"
+border="0"
+alt="Illustratie tekstballon"
+class="bol-icon-large-image"
+style=" width: 152px;
+height: 152px;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;">
+</td>
+<td valign="middle"
+height="152"
+class="bol-instruction"
+style="height: auto;
+min-height: 152px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0">
+<tr>
+<td class="bol-heading-3"
+style=" font-family: Arial, 'sans-serif';
+font-weight: bold;
+letter-spacing: -0.6px;
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding-bottom: 2px;">
+Hoe nu verder
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+Je krijgt een mail zodra we je artikelen verzenden.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td class="bol-vertical-spacing"
+style="padding: 12px 0;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td valign="top"
+width="168"
+class="bol-icon-large"
+style="width: 156px;
+padding-right: 16px;">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/illustrations/order-details.gif"
+width="152"
+height="152"
+border="0"
+alt="Illustratie order updates"
+class="bol-icon-large-image"
+style=" width: 152px;
+height: 152px;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #0000a4;">
+</td>
+<td valign="middle"
+height="152"
+class="bol-instruction"
+style="height: auto;
+min-height: 152px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0">
+<tr>
+<td class="bol-heading-3"
+style=" font-family: Arial, 'sans-serif';
+font-weight: bold;
+letter-spacing: -0.6px;
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding-bottom: 2px;">
+Tip
+</td>
+</tr>
+
+
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+In je account vind je alle <a href="https://www.bol.com/nl/account/bestellingen/details.html?placedOrderId=1353966743&Referrer=ENTcli_order_confirmation2008093611&language=nl" style="color:#0000ff; text-decoration:none;" class="bol-link-text" target="_blank">details en updates over je bestelling</a>.
+</td>
+</tr>
+
+
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+Kan ik de bestelling nog annuleren of wijzigen?
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+
+Je kunt deze bestelling op dit moment niet wijzigen omdat het al in het bestelproces zit. Wil je annuleren? Dat kan zolang je de link &lsquo;annuleren&rsquo; ziet bij je bestelling.
+
+
+
+</td>
+</tr>
+<tr>
+<td class="bol-regular bol-link-container"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;
+padding-top: 16px;">
+<a href="
+
+https://www.bol.com/nl/account/bestellingen/details.html?placedOrderId=1353966743&Referrer=ENTcli_order_confirmation2008093611&language=nl
+
+"
+target="_blank"
+class="bol-link-text"
+style="color:#0000ff;
+text-decoration:none;">
+
+Naar je bestelling
+
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+Kan ik het bezorgmoment of het bezorgadres nog wijzigen?
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+
+Je kunt de bezorgtijd of het bezorgadres niet veranderen. Lukt het de bezorger niet om het pakket bij jou af te geven, dan proberen we het bij je buren.
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+
+
+
+
+
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td width="100%"
+align="left"
+valign="top"
+class="bol-horizontal-spacing"
+style="padding: 0 24px;">
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0">
+<tr>
+<td class="bol-heading-2"
+style=" font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #0a0a0a;
+padding-bottom: 5px;">
+Waar vind ik de factuur?
+</td>
+</tr>
+<tr>
+<td class="bol-regular"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;">
+
+Als je artikel is meegegeven aan de bezorgdienst, vind je de factuur in je account.
+<br>
+
+
+
+Heb je een btw-factuur nodig voor je aankoop bij onze partner? Een garantiebewijs of factuur met btw kun je opvragen bij de partner via je bestelling.
+
+
+</td>
+</tr>
+<tr>
+<td class="bol-regular bol-link-container"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #0a0a0a;
+padding-top: 16px;">
+<a href="
+
+https://www.bol.com/nl/account/bestellingen/details.html?placedOrderId=1353966743&Referrer=ENTcli_order_confirmation2008093611&language=nl
+
+"
+target="_blank"
+class="bol-link-text"
+style="color:#0000ff;
+text-decoration:none;">
+
+Naar je bestelling
+
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<!-- end main content -->
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-row"
+style="padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table width="100%"
+border="0"
+cellspacing="0"
+cellpadding="0"
+align="center"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td align="center"
+class="bol-splitter"
+style=" width: 100%;
+font-size: 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td valign="top" width="444">
+<![endif]-->
+<div class="bol-two-third"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 444px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td>
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td height="60"
+class="bol-heading-3 bol-close-alert-text"
+style=" font-family: Arial, 'sans-serif';
+font-weight: bold;
+letter-spacing: -0.6px;
+text-align: left;
+font-size: 18px;
+line-height: 23px;
+color: #0a0a0a;
+padding-bottom: 2px;
+height: 60px;
+padding-left: 24px">
+Hebben we je met deze mail goed ge&iuml;nformeerd?
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td valign="top" width="256">
+<![endif]-->
+<div class="bol-one-third"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 256px;">
+<table align="center"
+border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td>
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td>
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="136"
+class="bol-close-alert-icons"
+style="width: 136px;">
+<tr>
+<td width="68"
+height="60"
+align="center"
+valign="middle"
+class="bol-close-alert"
+style="width: 68px;
+height: 60px;
+align: center;
+vertical-align: middle;
+padding: 0 4px;">
+<a href="https://klantreactie.bol.com/forms/wAXjW0/positive?verified=true&mailing=CLI_ORDER_CONFIRMATION_092018&id=c2e17911-99de-43ac-8f5c-342a2ed6058f"
+target="_blank">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/feedback-positive.gif"
+width="60"
+height="60"
+border="0"
+alt="&#128077;"
+class="bol-close-alert-image"
+style="width: 60px;
+height: 60px;
+display: block;
+border: none;
+font-family: sans-serif;
+font-size: 24px;
+text-align: center;
+color: #0a0a0a;">
+</a>
+</td>
+<td width="68"
+height="60"
+align="center"
+valign="middle"
+class="bol-close-alert"
+style="width: 68px;
+height: 60px;
+align: center;
+vertical-align: middle;
+padding: 0 4px;">
+<a href="https://klantreactie.bol.com/forms/wAXjW0/negative?verified=true&mailing=CLI_ORDER_CONFIRMATION_092018&id=c2e17911-99de-43ac-8f5c-342a2ed6058f"
+target="_blank">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/feedback-negative.gif"
+width="60"
+height="60"
+border="0"
+alt="&#128078;"
+class="bol-close-alert-image"
+style="width: 60px;
+height: 60px;
+display: block;
+border: none;
+font-family: sans-serif;
+font-size: 24px;
+text-align: center;
+color: #0a0a0a;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff"
+align="center"
+class="bol-footer"
+style="background-color: #ffffff;
+padding: 16px 0 32px 0;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td bgcolor="#0000a4"
+align="center"
+class="bol-customer-service"
+style="background-color: #0000a4;
+padding: 16px 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td align="center" valign="top" width="700">
+<![endif]-->
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%"
+class="bol-wrapper"
+style="max-width: 700px;">
+<tr>
+<td class="bol-heading-2-light bol-horizontal-spacing"
+style="font-family: 'Arial Black', 'Open Sans', Arial, 'Roboto', sans-serif;
+font-weight: 900;
+letter-spacing: -1px;
+text-align: left;
+font-size: 20px;
+line-height: 28px;
+color: #ffffff;
+padding: 0 24px;">
+Service &amp; contact
+</td>
+</tr>
+<tr>
+<td align="center"
+class="bol-splitter"
+style=" width: 100%;
+font-size: 0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+<td valign="top" width="350">
+<![endif]-->
+<div class="bol-half"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 350px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-box-spacing"
+style="padding: 24px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td width="80"
+valign="top"
+class="bol-icon-medium"
+style="width: 64px;
+padding-right: 16px;
+vertical-align: top;">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/icon-headset.gif"
+width="64"
+height="64"
+border="0"
+alt="Illustratie klantencontact"
+class="bol-icon-medium-image"
+style=" width: 64px;
+height: 64px;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #ffffff;">
+</td>
+<td class="bol-footer-text"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #ffffff;">
+<strong>Heb je ons nodig?</strong><br> Onze klantenservice is dag en nacht open.
+
+Je bestelnummer is 1&zwnj;3&zwnj;5&zwnj;3&zwnj;9&zwnj;6&zwnj;6&zwnj;7&zwnj;4&zwnj;3&zwnj;
+<br><br>
+<a href="https://www.bol.com/nl/klantenservice/index.html?language=nl&Referrer=ENTcli_order_confirmation2008093611"
+target="_blank"
+class="bol-footer-link"
+style="color: #fff;
+text-decoration: underline;">Naar de klantenservicepagina</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td valign="top" width="350">
+<![endif]-->
+<div class="bol-half"
+style=" display: inline-block;
+margin: 0 -2px;
+vertical-align: top;
+width: 100%;
+max-width: 350px;">
+<table border="0"
+cellpadding="0"
+cellspacing="0"
+width="100%">
+<tr>
+<td class="bol-box-spacing"
+style="padding: 24px;">
+<table cellpadding="0"
+cellspacing="0"
+border="0"
+width="100%">
+<tr>
+<td width="80"
+valign="top"
+class="bol-icon-medium"
+style="width: 64px;
+padding-right: 16px;
+vertical-align: top;">
+<img src="https://s.s-bol.com/nl/upload/images/nb/servicemails/assets/v2/icon-letter.gif"
+width="64"
+height="64"
+border="0"
+alt="Illustratie zelf regelen"
+class="bol-icon-medium-image"
+style=" width: 64px;
+height: 64px;
+font-family: sans-serif;
+font-size: 12px;
+text-align: center;
+color: #ffffff;">
+</td>
+<td class="bol-footer-text"
+style=" font-family: Arial, 'sans-serif';
+text-align: left;
+font-size: 14px;
+line-height: 21px;
+color: #ffffff;">
+<strong>Snel regelen in je account</strong><br> Volg je bestelling, betaal facturen of retourneer een artikel.<br><br>
+<a href="https://www.bol.com/nl/rnwy/account/overzicht?language=nl&Referrer=ENTcli_order_confirmation2008093611"
+target="_blank"
+class="bol-footer-link"
+style="color: #fff;
+text-decoration: underline;">Naar je account</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
