@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     LONG_DESC = fh.read()
     setup(
         name="eml-to-html",
-        version="0.0.1",
+        version="0.0.2",
         py_modules=["eml_to_html"],
         scripts=["eml_to_html.py"],
         entry_points={"console_scripts": ["eml-to-html = eml_to_html:main"]},
