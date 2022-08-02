@@ -1,0 +1,1200 @@
+Delivered-To: youremail@gmail.com
+From: "Amazon.com" <digital-no-reply@amazon.com>
+Reply-To: digital-no-reply@amazon.com
+To: youremail@gmail.com
+Subject: Amazon.com order of D01-4343434-asdfasdf.
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_27922630_245752438.454545454"
+Date: Sat, 22 Jan 2022 10:34:34 +0000
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello Jeroen,
+
+Thank you for shopping with us. All Kindle content, including books and Kindle active content, that you've purchased from the Kindle Store is stored in your Kindle library https://read.amazon.com?ref_=kfw_digital_order_confirmation_email
+
+............................................................................
+
+Order Information:
+
+E-mail Address:
+        youremail@gmail.com
+
+Order Grand Total:
+        $8.92
+............................................................................
+
+Order Summary:
+
+Details:
+
+Order #: D01-5863344-6310626
+
+Item Subtotal:             $8.18
+Tax Collected:               $0.74
+    
+Grand Total:             $8.92
+............................................................................
+You can view your receipt or invoice by visiting the Order details page:
+
+https://www.amazon.com/gp/digital/your-account/order-summary.html/ref=TE_M1YA?orderID=D01-5863344-6310626
+
+The charge for this order will appear on your credit card statement from the merchant 'AMZN Payment Services'.
+
+You can review your orders in Your Account.
+
+If you've explored the links on that page but still have a question, please visit our online Help Department:
+https://www.amazon.com/gp/help/customer/display.html/ref=TE_M1_cs?ie=UTF8&nodeId=518316
+............................................................................
+
+Please note: This e-mail was sent from a notification-only address that cannot accept incoming e-mail. Please do not reply to this message.
+
+Thanks again for shopping with us.
+
+----------------------------------------------------------------------------
+Amazon.com
+
+Earth's Biggest Selection
+Find, Discover, and Buy Virtually Anything
+https://amazon.com
+----------------------------------------------------------------------------
+------=_Part_27922630_245752438.1642847674201
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <style type=3D"text/css">
+body {
+=09margin:0;
+=09font-size:13px;
+=09line-height:18px;
+=09font-family:Arial, sans-serif; =09
+}
+
+a {
+=09text-decoration:none;
+=09color:#006699;
+=09font-size:13px;
+=09line-height:18px;
+=09font-family:Arial, sans-serif; =09
+}
+
+a img {
+=09border:0;=09
+}
+
+h2 {
+=09font-size:20px;
+=09line-height:24px;
+=09margin:0;
+=09padding:0;
+=09font-weight:normal;=09
+=09color:#000;
+}
+
+h3 {
+=09font-size:18px;
+=09color:#cc6600;
+=09margin:15px 0 0 0;
+=09font-weight:normal;
+}
+
+h4 {
+=09font-size:14px;=09
+=09margin:0;
+=09font-weight:normal;
+}
+
+p {
+=09margin:4px 0 18px 0;
+=09font-size:13px;
+=09line-height:18px;
+=09font-family:Arial, sans-serif;=20
+}
+
+table {
+=09border-collapse:collapse;=09
+}
+
+td {
+=09vertical-align:top;
+=09font-size:13px;
+=09line-height:18px;
+=09font-family:Arial, sans-serif;=20
+}
+
+/* container */
+#container {
+=09width:655px;
+=09color:#333;
+=09margin:0 auto;
+}
+
+#container .frame {
+=09padding:0 20px 20px 20px;=09
+}
+
+/* content tables */
+#main, #header, #summary, #orderDetails, #itemDetails,
+#selfService, #closing, #marketingContent, #legalCopy, #refundDetails {
+=09width:100%;
+}
+
+/* header */
+#header .logo {
+=09width:115px;
+=09padding:18px 0 0 0;=09
+}
+
+#header .navigation {
+=09text-align:right;
+=09padding:5px 0;
+=09border-bottom:1px solid #ccc;
+=09white-space:nowrap;
+}
+
+/* We intentionally changed all padings to 0px and added "#header .navigati=
+on span" rule */
+#header .navigation a {
+=09border-right:0px solid #CCC;
+=09margin-right:0px;
+=09padding-right:0px;
+}
+
+#header .navigation span {
+ text-decoration:none; color:#CCC;
+ font-size:15px;
+ font-family:Arial, sans-serif;=20
+}
+
+#header .navigation div {
+=09display:inline;
+}
+
+#header .navigation a.last {
+=09border:0;
+=09margin:0;
+=09padding:0;
+}
+
+#header .title {
+=09text-align:right;
+=09padding:7px 0 5px 0;
+}
+
+#header .title img {
+=09padding:0 4px 0 0;
+}
+
+.header-border {
+    padding-bottom:10px;
+    border-bottom:1px solid #ccc;
+    vertical-align:middle;
+}
+
+#header .title.redesigned {
+    text-align:right;
+    padding:18px 0 5px 0;
+}
+
+/* critical info */
+#criticalInfo {
+=09border-top:3px solid #2d3741;
+=09width:100%;=09
+=09margin:0 0 20px 0;
+}
+
+#criticalInfo td {
+=09font-size:14px;
+=09padding:11px 18px 18px 18px;
+=09width:50%;
+}
+
+#criticalInfo .detailsContent {
+    background-color:#efefef;
+}
+
+#criticalInfo .label {
+=09color:#666;=09
+}
+
+#criticalInfo p {
+=09margin:2px 0 9px 0;=09
+}
+
+#criticalInfo a {
+=09font-size:11px;
+=09color:#006699;
+=09text-decoration:none;=09       =20
+}
+
+/* buttons */
+.button {
+=09text-decoration:none;
+=09display:block;
+=09height:26px;
+=09display:inline-block;
+=09margin:0 0 2px 0;
+}
+
+.button.small {
+=09height:20px;
+}
+
+.button .expandable {
+=09float:left;
+=09overflow:hidden;
+}
+
+.button .text {
+=09color:#000f68;
+=09font-size:12px;
+=09position:relative;
+=09z-index:10;
+=09top:-22px;
+=09left:-12px;=09
+=09text-align:center;
+}
+
+.button.secondary .text {
+=09left:0;=09
+}
+
+.button.small .text {
+=09top:-20px;
+=09left:0;
+=09font-size:11px;
+}
+
+/* supporting details */
+#supportingDetails {
+=09font-size:11px;
+=09color:#666;
+=09line-height:14px;
+=09margin:10px 20px;
+}
+
+#supportingDetails {
+=09margin:0 18px 0 18px;=09=09
+}
+
+/* order details */
+#orderDetails h3 {
+=09border-bottom:1px solid #ccc;
+=09margin:0 0 3px 0;
+=09padding:0 0 3px 0;
+}
+
+#orderDetails .frame {
+=09padding:16px 20px 6px 20px;
+}
+
+#orderDetails .orderInfo {
+    padding-top: 10px;
+}
+
+/*Added "#orderDetails .orderDetailsFrame" as rule "#orderDetails .frame" i=
+s conflicting with "#container .frame".
+  This needs further investigation but as a temporary fix added "#orderDeta=
+ils .orderDetailsFrame" */
+#orderDetails .orderDetailsFrame {
+=09border-bottom:1px solid #ccc;
+=09line-height:22px;
+=09padding:16px 20px 6px 0;
+}
+
+#orderDetails .displayTable {
+    width: 100%;
+}
+
+#orderDetails .manageOrderButton {
+    vertical-align: center;
+}
+
+#orderDetails .costBreakdown {
+    float: right;
+}
+
+#orderDetails .orderDate {
+=09color:#666666;
+=09font-size:12px;
+}
+
+/* item details */
+#itemDetails .photo {
+=09width:150px;
+=09text-align:center;
+=09padding:0 0 30px 0;
+}
+
+#itemDetails .photo .play img {
+=09margin:3px 0 0 0;=09
+}
+
+#itemDetails .name {
+=09color:#666;
+=09padding:10px 10px 30px 10px;
+}
+
+#itemDetails ul {
+=09margin:0;
+=09padding:0;
+}
+
+#itemDetails ul li {
+=09list-style-type:none;
+=09line-height:14px;
+=09padding:0 0 4px 0;
+    margin:0;
+}
+
+/*entry "line-height:16px;" is this rule is intentionally removed.*/
+#itemDetails ul li a {
+=09font-size:14px;
+}
+
+#itemDetails .name a {
+        font-size:14px;
+}
+
+#itemDetails .name p {
+=09margin:0;
+=09font-size:12px;
+=09line-height:16px;
+}
+
+#itemDetails .name p a {
+=09font-size:11px;
+}
+
+#itemDetails .name p a.itemDetailsLink {
+    font-size:12px;
+}
+
+/* Intentionally changed=20
+#itemDetails .name .share to #itemDetails .name table
+and=20
+#itemDetails .name .share a to #itemDetails .name div a
+This change makes html returned by share widget url to be displayed properl=
+y*/
+#itemDetails .name table {
+=09/*margin:3px 0 15px 0;*/
+        border-collapse: separate;
+}
+
+#itemDetails .name div a {
+=09/*margin:4px 5px 0 0;*/
+=09font-size:0;
+}
+
+#itemDetails .name .supportingDetails,=20
+#itemDetails .name .supportingDetails a {
+=09margin:8px 0 0 0;
+=09font-size:12px;
+}
+
+#itemDetails .price {
+=09width:80px;
+=09text-align:right;
+=09font-size:14px;
+=09padding:10px 0 30px 0;=09
+}
+
+#itemDetails .divider {
+=09border-top:1px solid #eaeaea;
+=09padding:0 0 16px 0;
+=09}
+=09
+#collection {
+=09width:100%;
+=09margin:10px 0 0;
+}
+
+#collection .test {
+=09padding:0 10px 0 10px;
+}
+
+#itemDetails #collection .name {
+=09padding:0 10px 30px 10px;
+}
+
+#itemDetails #collection .price {
+=09padding:0;=09
+}
+
+/* cost breakdown */
+#costBreakdown td {
+=09text-align:right;
+=09line-height:18px;
+=09padding:0 0 2px 10px;
+}
+
+#costBreakdown .titles {
+    padding: 0 0 2px 0;
+}
+
+#costBreakdown .total .titles{
+=09font-size:14px;
+=09font-weight:bold;
+=09padding: 0 0 2px 0;
+}
+
+/* additional shipments */
+#additionalShipments {
+=09font-size:11px;
+}
+
+#additionalShipments h3 {
+=09margin:10px 0 0 0;=09
+}
+
+#additionalShipments p {
+=09margin:10px 20px 0px 20px;
+}
+
+#additionalShipments .orderDate {
+=09color:#666666;
+=09font-size:12px;
+}
+
+#additionalShipments .details {
+=09padding:10px 20px 10px 20px;
+}
+
+#additionalShipments .details .label {
+=09color:#666666;
+=09font-weight:bold;=09
+}
+
+#additionalShipments .details .edd, #additionalShipments .details .quantity=
+ {
+=09font-weight:bold;=09
+}
+
+/* self service */
+#selfService p {
+=09padding:20px 0 0 0;
+}
+
+/* closing */
+#closing p {
+=09padding:0 0 20px 0;
+=09border-bottom:1px solid #eaeaea;
+=09margin:0;=09
+}
+
+#closing .signature {
+=09font-size:16px;=09
+=09line-height:24px;
+=09font-weight:bold;
+}
+
+/* marketing content */
+#marketingContent {
+=09border-bottom:1px solid #eaeaea;=09
+}
+
+#marketingContent h3 {
+    font-size:14px;
+    color:#cc6600;
+    margin:15px 0 0 0;
+    font-weight:normal;
+}
+
+#marketingContent .dynamicMarketingContent td {
+=09padding:0 0 0 0;
+}
+
+/* legal copy */
+#legalCopy {
+=09margin:20px 0 0 0;
+}
+
+#legalCopy p {
+=09font-size:11px;
+=09color:#666;
+=09line-height:16px;
+=09margin:0 0 10px 0;=09
+}
+
+#legalCopy a {
+=09font-size:11px;
+}
+
+.note {
+=09font-size:11px;
+=09color:#666;=09
+=09
+}
+
+table p.note
+{
+=09font-size: 11px;
+=09
+}
+
+span.criticalTitle {
+=09color: #666;=09
+}
+.tableNote {
+=09margin-top: -10px;=09
+}
+
+.confidential {
+=09color: #666;
+=09font-size: 11px;=09
+}
+
+.detailShipDateNo {
+=09color: #C00;=09
+}
+
+.detailShipDateYes{
+=09color:#009900;=09
+}
+
+.multipleItemDetailShip {
+=09width: 100%;=09
+}
+
+/*Other items shipping soon*/
+.subInfo {
+=09
+=09padding: 20px;
+=09font-size: 11px;=09
+}
+
+.subInfo a {
+=09font-size: 11px;
+}
+
+.criticalInfoImportant {
+=09font-size: 14px;=09
+}
+/*Notes*/
+.note {
+=09font-size:11px;
+=09color:#666;=09
+=09
+}
+
+.giftNote {
+=09padding: 20px 0 0 0;=09
+}
+
+ /* Vertical align images when they are in the same line as text */
+.center-img {
+=09vertical-align: middle;
+}
+
+/* Styling for Amabot bottom banner content */
+.amabot {
+    font-size: 14px !important;
+    width: 100%;
+    padding: 0px;
+    vertical-align: middle;
+    display: block;
+}
+
+.amabot #amabotBannerLeftImage {
+    padding: 0px 5px 0px 5px;
+    vertical-align: middle;
+}
+
+.noColorAndTextDecoration a {
+    color:#000 !important;
+    text-decoration:none !important;
+}
+
+.amabotBannerTextArea #amabotBannerBodyPrefix {
+    font: 14px Arial, sans-serif;
+    color: #069;
+}
+
+.amabotBannerTextArea #amabotBannerBodyText {
+    font: 14px Arial, serif;
+    line-height: 1.2;
+    color: #069;
+}
+
+.amabotBannerTextArea #amabotBannerBodyTextItalic {
+    font: 14px Georgia, serif;
+    line-height: 1.2;
+    font-style: italic;
+    color: #069;
+}
+
+.buttonComponent {
+    border-collapse: separate;
+    text-decoration: none !important;
+    background-color: rgba(238,153,0, 0.5);
+    white-space: nowrap;
+    min-width: 222px;
+    min-height: 27px;
+    padding: 0px 5px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #ee9900;
+    border-width: 2px;
+}
+
+.buttonComponentMusic{
+    border-collapse: separate;
+    text-decoration: none !important;
+    border-radius: 3px;
+    background: #1AD2FB linear-gradient(#29D8FF, #1AD2FB) repeat scroll 0% =
+0% !important;
+    background-color: #1AD2FB;
+    white-space: nowrap;
+    min-width: 110px;
+    min-height: 17px;
+    margin: 5px auto 0px auto;
+}
+
+.buttonComponentVideo{
+    border-collapse: separate;
+    text-decoration: none !important;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #627F2F;
+    border-width: 1px;
+    background: #73952C linear-gradient(#97B554, #73952C) repeat scroll 0% =
+0% !important;
+    background-color: #73952C;
+    white-space: nowrap;
+    min-width: 86px;
+    min-height: 17px;
+    margin: 5px auto 0px auto;
+}
+
+.buttonComponent td {
+    padding: 0px !important;
+}
+
+.buttonComponentMusic td {
+    padding: 0px !important;
+}
+
+.buttonComponentVideo td {
+    padding: 0px !important;
+}
+
+.buttonComponentLink {
+    color: rgb(27, 27, 27) !important;
+    font: 14px/ 16px Arial, sans-serif !important;
+    display: table-cell;
+    margin: auto 0;
+    vertical-align: middle;
+
+    min-width: 222px;
+    height: 27px;
+}
+
+.buttonComponentMusicLink {
+    color: rgb(30, 34, 34) !important;
+    font: 12px/ 14px Arial, sans-serif !important;
+    display: table-cell;
+    margin: auto 0;
+    vertical-align: middle;
+
+    min-width: 110px;
+    height: 17px;
+}
+
+.buttonComponentVideoLink {
+    color: rgb(27, 27, 27) !important;
+    font: 12px/ 14px Arial, sans-serif !important;
+    display: table-cell;
+    margin: auto 0;
+    vertical-align: middle;
+
+    min-width: 86px;
+    height: 17px;
+}
+
+
+</style>=20
+  <title></title>=20
+ </head>=20
+ <body><img width=3D"1" height=3D"1" src=3D"https://www.amazon.com/gp/r.htm=
+l?C=3D1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:20220122103433598e173=
+640764e56859f733c0590p0na&R=3D1126TKOJ99QJK&T=3DO&U=3Dhttps%3A%2F%2Fimages-=
+na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&H=3DOKQNIGQYZ=
+4WN8ORESABAT3RL8BWA&ref_=3Dpe_47689220_607410480_opens" />=20
+  <table id=3D"container" cellpadding=3D"0">=20
+   <tbody>
+    <tr>=20
+     <td class=3D"frame">=20
+      <table id=3D"main" cellpadding=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td>=20
+          <div class=3D"header-border">=20
+           <table id=3D"header" cellpadding=3D"0">=20
+            <tbody>
+             <tr>=20
+              <td rowspan=3D"2" class=3D"logo"><a href=3D"https://www.amazo=
+n.com/gp/r.html?C=3D1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:2022012=
+2103433598e173640764e56859f733c0590p0na&R=3D37BSNOYGOHPD5&T=3DC&U=3Dhttps%3=
+A%2F%2Fwww.amazon.com%2Fref%3Dpe_47689220_607410480_TE_M1&H=3DEDFAPKJYFGKOP=
+YNBGEGBQ9H7KPUA&ref_=3Dpe_47689220_607410480_TE_M1" title=3D"Visit Amazon.c=
+om"><img alt=3D"Amazon" src=3D"http://g-ecx.images-amazon.com/images/G/01/x=
+-locale/cs/te/logo.png" /></a> </td>=20
+             </tr>=20
+             <tr>=20
+              <td class=3D"title redesigned"><h2>Order Confirmation</h2> </=
+td>=20
+             </tr>=20
+            </tbody>
+           </table>=20
+          </div> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"summary" cellpadding=3D"0">=20
+           <tbody>
+            <tr>
+             <td><h3>Hello Jeroen,</h3> <p>Thank you for shopping with us. =
+All Kindle content, including books and Kindle active content, that you've =
+purchased from the Kindle Store is stored in your <a href=3D"https://www.am=
+azon.com/gp/f.html?C=3D1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:2022=
+0122103433598e173640764e56859f733c0590p0na&R=3D20ACTRZOIODO8&T=3DC&U=3Dhttp=
+s%3A%2F%2Fread.amazon.com%3Fref_%3Dpe_47689220_607410480_kfw_digital_order_=
+confirmation_email&H=3DBOVOXZSXCEODHNPRV35UPI6CAC0A&ref_=3Dpe_47689220_6074=
+10480_kfw_digital_order_confirmation_email">Kindle library</a> on Amazon.co=
+m.</p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2">=20
+          <table id=3D"criticalInfo" cellpadding=3D"0">=20
+           <tbody>
+            <tr class=3D"detailsContent">=20
+             <td> </td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"background-color:rgb(254, 254, 254);"> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"orderDetails" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td><h3>Order Details</h3></td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"orderInfo"><h4>Order #<a href=3D"https://www.amaz=
+on.com/gp/f.html?C=3D1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:202201=
+22103433598e173640764e56859f733c0590p0na&R=3D1SQJPOFHVY53&T=3DC&U=3Dhttps%3=
+A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-account%2Forder-summary.html%2F=
+ref%3Dpe_47689220_607410480_TE_M1YA%3ForderID%3DD01-5863344-6310626&H=3DY1A=
+JXXHLFNYALZFAHQRZ9CMQDL8A&ref_=3Dpe_47689220_607410480_TE_M1YA" class=3D"in=
+line-block">D01-5863344-6310626</a> </h4> <span class=3D"orderDate">Placed =
+on Saturday, January 22, 2022</span></td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"orderDetailsFrame">=20
+              <table class=3D"displayTable">=20
+               <tbody>
+                <tr>=20
+                 <td class=3D"manageOrderButton">=20
+                  <table class=3D"buttonComponent" width=3D"222">=20
+                   <tbody>
+                    <tr>=20
+                     <td style=3D"width:100%; vertical-align:middle;" align=
+=3D"center" valign=3D"middle" width=3D"100%" height=3D"45"> <a class=3D"but=
+tonComponentLink" href=3D"https://www.amazon.com/gp/f.html?C=3D1PODR832RCHM=
+D&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:20220122103433598e173640764e56859f733c0=
+590p0na&R=3D2HSLWDXQT89IN&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdig=
+ital%2Fyour-account%2Forder-summary.html%2Fref%3Dpe_47689220_607410480_TE_M=
+1YA%3ForderID%3DD01-5863344-6310626&H=3D5TELHOQ9KTAHRGIAUZAFTD1VHOEA&ref_=
+=3Dpe_47689220_607410480_TE_M1YA">View order details</a> </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                 <td class=3D"costBreakdown">=20
+                  <table id=3D"costBreakdown">=20
+                   <tbody>
+                    <tr>=20
+                     <td>Item Subtotal:</td>=20
+                     <td class=3D"price">$8.18</td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td>Total Before Tax:</td>=20
+                     <td>$8.18</td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td>Tax Collected:</td>=20
+                     <td>$0.74</td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td class=3D"total"><strong>Grand Total:</strong></td>=
+=20
+                     <td class=3D"total"><strong>$8.92</strong></td>=20
+                    </tr>=20
+                    <tr>=20
+                     <td> </td>=20
+                    </tr>=20
+                   </tbody>
+                  </table> </td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"selfService" cellpadding=3D"0">=20
+           <tbody>
+            <tr>
+             <td> <p>Learn more about Kindle in <a href=3D"https://www.amaz=
+on.com/gp/r.html?C=3D1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:202201=
+22103433598e173640764e56859f733c0590p0na&R=3D3S8LA6RNM9MK1&T=3DC&U=3Dhttps%=
+3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2Fref%3Dpe_476=
+89220_607410480_TE_M1_ss%3Fie%3DUTF8%26nodeId%3D200127470&H=3DG76AJV2PDHXHI=
+MHEA4CTSDOKSKYA&ref_=3Dpe_47689220_607410480_TE_M1_ss">Help</a>.<br /> </p>=
+</td>=20
+            </tr>
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"closing" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td> <p>We hope to see you again soon!<br /> <span class=3D"si=
+gnature"><strong>Amazon.com</strong></span></p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"marketingContent" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"padding:10px 0;" class=3D"dynamicMarketingContent=
+">=20
+              <!--rbd-->=20
+              <div class=3D"celwidget pd_rd_w-6Ql4u pf_rd_p-63822626-b071-4=
+b8a-b32f-b1f977583352 pf_rd_r-9QE8NTD52S2NA5HPARWW pd_rd_r-86e58043-9bff-45=
+c6-9ed2-3846b845b811 pd_rd_wg-m54bj c-f" cel_widget_id=3D"p13n-asin-list-pl=
+ain_email-digital-order-confirmation_0" data-csa-c-content-id=3D"amzn1.sym.=
+63822626-b071-4b8a-b32f-b1f977583352" data-csa-c-slot-id=3D"email-digital-o=
+rder-confirmation-1" data-csa-c-type=3D"widget" data-csa-c-painter=3D"p13n-=
+asin-list-plain-cards">
+               <script>if(window.mix_csa){window.mix_csa('[cel_widget_id=3D=
+"p13n-asin-list-plain_email-digital-order-confirmation_0"]')('mark', 'bb')}=
+</script>=20
+               <script>if(window.uet){window.uet('bb','p13n-asin-list-plain=
+_email-digital-order-confirmation_0',{wb: 1})}</script>=20
+               <style>._p13n-asin-list-plain_truncationStyles_p13n-sc-css-l=
+ine-clamp-1__1Fn1y{-webkit-line-clamp:1;-webkit-box-orient:vertical;display=
+:-webkit-box;overflow:hidden}._p13n-asin-list-plain_truncationStyles_p13n-s=
+c-css-line-clamp-2__EWgCb{-webkit-line-clamp:2;-webkit-box-orient:vertical;=
+display:-webkit-box;overflow:hidden}._p13n-asin-list-plain_truncationStyles=
+_p13n-sc-css-line-clamp-3__g3dy1{-webkit-line-clamp:3;-webkit-box-orient:ve=
+rtical;display:-webkit-box;overflow:hidden}._p13n-asin-list-plain_truncatio=
+nStyles_p13n-sc-css-line-clamp-4__2q2cc{-webkit-line-clamp:4;-webkit-box-or=
+ient:vertical;display:-webkit-box;overflow:hidden}._p13n-asin-list-plain_tr=
+uncationStyles_p13n-sc-css-line-clamp-5__2l-dX{-webkit-line-clamp:5;-webkit=
+-box-orient:vertical;display:-webkit-box;overflow:hidden}._p13n-asin-list-p=
+lain_truncationStyles_p13n-sc-css-line-clamp-6__28daG{-webkit-line-clamp:6;=
+-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden}._p13n-asin=
+-list-plain_truncationStyles_p13n-sc-css-line-clamp-7__1k_Mc{-webkit-line-c=
+lamp:7;-webkit-box-orient:vertical;display:-webkit-box;overflow:hidden}._p1=
+3n-asin-list-plain_truncationStyles_p13n-sc-css-line-clamp-8__1yvsR{-webkit=
+-line-clamp:8;-webkit-box-orient:vertical;display:-webkit-box;overflow:hidd=
+en}._p13n-asin-list-plain_truncationStyles_p13n-sc-css-line-clamp-9__3Pofd{=
+-webkit-line-clamp:9;-webkit-box-orient:vertical;display:-webkit-box;overfl=
+ow:hidden}._p13n-asin-list-plain_truncationStyles_p13n-sc-css-line-clamp-10=
+__mY8_7{-webkit-line-clamp:10;-webkit-box-orient:vertical;display:-webkit-b=
+ox;overflow:hidden}
+._p13n-asin-list-plain_pillContainerStyle_p13nscPills__1KzwZ{margin-left:0;=
+overflow:auto;white-space:normal}._p13n-asin-list-plain_pillContainerStyle_=
+p13nscPills__1KzwZ::-webkit-scrollbar{background:transparent;width:0}._p13n=
+-asin-list-plain_pillContainerStyle_p13nscPills__1KzwZ li{-webkit-box-pack:=
+center;-ms-flex-pack:center;background-color:#f0f0f0;border:1px solid #f0f0=
+f0;border-radius:8px;box-shadow:0 1px 2px 0 rgba(15,17,17,.2);color:#111;cu=
+rsor:pointer;display:-webkit-inline-box;display:-ms-inline-flexbox;display:=
+inline-flex;font-weight:500;justify-content:center;list-style-type:none;mar=
+gin:1px 8px 2px 1px;min-width:44px;padding:8px;text-align:center;white-spac=
+e:normal}._p13n-asin-list-plain_pillContainerStyle_p13nscPills__1KzwZ li.p1=
+3n-selected-pill{background-color:#e7f4f5;border-color:#c7e4e8;color:#00718=
+5}._p13n-asin-list-plain_pillContainerStyle_p13nscPills__1KzwZ li:hover.p13=
+n-selected-pill{background-color:#daf1f3;border-color:#c7e4e8;color:#007185=
+}._p13n-asin-list-plain_pillContainerStyle_p13nscPills__1KzwZ li:hover{back=
+ground-color:#eee;border-color:#eee}._p13n-asin-list-plain_pillContainerSty=
+le_p13nscPills__1KzwZ ._p13n-asin-list-plain_pillContainerStyle_unselected_=
+_q8wvT{background-color:#f4f4f4}._p13n-asin-list-plain_pillContainerStyle_s=
+pinnerContainer__Llfcc{min-height:100px;width:100%}._p13n-asin-list-plain_p=
+illContainerStyle_spinnerContainer__Llfcc ._p13n-asin-list-plain_pillContai=
+nerStyle_p13nScSpinner__3lJFM{margin:20px auto auto}._p13n-asin-list-plain_=
+pillContainerStyle_refinementPillCss__1fYG0{max-width:200px}
+._p13n-asin-list-plain_style_grid-cell__zFYyO{-webkit-box-pack:center;-ms-f=
+lex-pack:center;-ms-flex-preferred-size:210px;-webkit-box-flex:1;-ms-flex-p=
+ositive:1;background-color:#fff;display:-webkit-box;display:-ms-flexbox;dis=
+play:flex;flex-basis:210px;flex-grow:1;justify-content:center;margin:10px;m=
+ax-width:300px;min-width:210px}._p13n-asin-list-plain_style_grid-row__3VsqC=
+{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;fl=
+ex-wrap:wrap;margin-bottom:22px}._p13n-asin-list-plain_style_grid-column__U=
+jCjt{border-bottom:1px solid #d5dbdb;border-top:1px solid #d5dbdb;border-co=
+lor:#d5dbdb;border-style:solid;border-width:.5px 1px;margin-bottom:0;margin=
+-left:-1px;margin-right:0!important;margin-top:0;width:-webkit-min-content;=
+width:-moz-min-content;width:min-content}
+._p13n-asin-list-plain_style_column__2x05O{grid-column:auto/span 1;margin-r=
+ight:0!important}._p13n-asin-list-plain_style_grid-row__3daT_{display:grid;=
+grid-template-columns:repeat(auto-fit,50%)}._p13n-asin-list-plain_style_car=
+d__3H7qC{margin-bottom:0;margin-top:0;padding:10px;position:relative;text-a=
+lign:center}._p13n-asin-list-plain_style_card__3H7qC,._p13n-asin-list-plain=
+_style_expandedColumn__1-66H{-webkit-box-orient:vertical;-webkit-box-direct=
+ion:normal;border-bottom:1px solid #d5dbdb;border-top:1px solid #d5dbdb;bor=
+der-color:#d5dbdb;border-style:solid;border-width:.5px 1px;-ms-flex-flow:co=
+lumn;flex-flow:column;height:100%;margin-left:-1px}._p13n-asin-list-plain_s=
+tyle_expandedColumn__1-66H{-webkit-box-align:center;-ms-flex-align:center;a=
+lign-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;grid=
+-column:auto/span 2;margin-right:0!important;margin-top:-1px}._p13n-asin-li=
+st-plain_style_overlayTitle__2XUqy{position:absolute;top:35%}._p13n-asin-li=
+st-plain_style_notInterestedMessage__2-bO3{position:absolute;top:50%}._p13n=
+-asin-list-plain_style_image__2eEq7{opacity:.1}._p13n-asin-list-plain_style=
+_feedbackRow__17KjU{margin-right:0!important}
+.report-flag-hide{cursor:none;display:none}.report-flag{background-image:ur=
+l(https://m.media-amazon.com/images/S/sash/vh8ofoqOd7XyRsk.png);background-=
+repeat:no-repeat;background-size:15px 16px;cursor:pointer;height:16px;posit=
+ion:absolute;right:20px;top:35px;width:15px}.report-flag:hover{background-i=
+mage:url(https://m.media-amazon.com/images/S/sash/WXxFP-k55X6KCh2.png)}.rep=
+ort-problem-modal-root{padding:14px 18px}
+._p13n-asin-list-plain_panelStyle_panel-text__3TtlT{width:220px}._p13n-asin=
+-list-plain_panelStyle_panel-container__3ZNzh{float:left;width:238px}._p13n=
+-asin-list-plain_panelStyle_panel-subsection__19oyW{padding-left:15px;paddi=
+ng-right:18px}._p13n-asin-list-plain_panelStyle_panel-logo-container__ucYMM=
+{height:33px;margin-bottom:5px;width:220px}._p13n-asin-list-plain_panelStyl=
+e_panel-button__GP7zd{width:auto}
+._p13n-asin-list-plain_style_card__2yY06{width:95%}._p13n-asin-list-plain_s=
+tyle_image-and-offer__XQEhq{display:-webkit-box;display:-ms-flexbox;display=
+:flex;margin-bottom:0;margin-top:10px}._p13n-asin-list-plain_style_review-r=
+ow__1d5Qn{padding-right:10px;width:100%}._p13n-asin-list-plain_style_row__1=
+eL-2{width:100%}._p13n-asin-list-plain_style_icon__3kTmk{background-positio=
+n:-310px -5px;height:1.6rem;width:1.6rem}
+._p13n-asin-list-plain_price_p13n-sc-price__3mJ9Z{word-wrap:normal}
+._p13n-asin-list-plain_prime_p13n-prime-badge__GVM4h{position:relative;top:=
+2px}
+input[type=3Dnumber]::-webkit-inner-spin-button,input[type=3Dnumber]::-webk=
+it-outer-spin-button{-webkit-appearance:none;margin:0}input[type=3Dnumber]{=
+-moz-appearance:textfield}
+._p13n-asin-list-plain_bestsellerStyles_p13n-best-seller-badge__1-yh1{backg=
+round-color:#c45500!important;font-size:12px;margin-right:8px;padding-botto=
+m:2px;padding-top:2px}._p13n-asin-list-plain_bestsellerStyles_p13n-best-sel=
+ler-badge__1-yh1:before{border-bottom-color:#c45500!important}._p13n-asin-l=
+ist-plain_bestsellerStyles_p13n-best-seller-badge__1-yh1:after{border-top-c=
+olor:#c45500!important}._p13n-asin-list-plain_bestsellerStyles_p13n-sc-best=
+seller-badge-body__3nkHf{background-color:#c45500;float:left;line-height:18=
+px;padding-left:6px;padding-right:3px}._p13n-asin-list-plain_bestsellerStyl=
+es_p13n-sc-bestseller-badge-text__3apKt{color:#fff;line-height:18px}._p13n-=
+asin-list-plain_bestsellerStyles_p13n-sc-bestseller-badge-triangle__2Z3cK{b=
+order-right:9px solid transparent;border-top:18px solid;color:#c45500;float=
+:left;height:0;width:0}
+._p13n-asin-list-plain_curationStyles_curation__13VGx{margin-bottom:0;overf=
+low:hidden;text-overflow:ellipsis;white-space:nowrap}._p13n-asin-list-plain=
+_curationStyles_curation__13VGx ._p13n-asin-list-plain_curationStyles_icon_=
+_3_dKr{width:20px}
+._p13n-asin-list-plain_dealInfo_p13nDealOfTheDay__cVlwZ{background:#b12704;=
+color:#fff;float:right;padding:2px 4px;position:relative}._p13n-asin-list-p=
+lain_dealInfo_dealsCardDealTimer__2oYBO{float:left}._p13n-asin-list-plain_d=
+ealInfo_dealsCardPercentClaimed__1GTDI{float:right}
+._p13n-asin-list-plain_quantityPricingTable_qdPricingTableContainer__29w2z =
+._p13n-asin-list-plain_quantityPricingTable_qdPricingTable__1_iY1{border:no=
+ne;border-collapse:separate;border-top:1px solid #e7e7e7}._p13n-asin-list-p=
+lain_quantityPricingTable_qdPlaceholderRow__1ry1S ._p13n-asin-list-plain_qu=
+antityPricingTable_quantityColumn__2sfjE{border-left:3px solid #d77d32}._p1=
+3n-asin-list-plain_quantityPricingTable_qdPricingTableContainer__29w2z ._p1=
+3n-asin-list-plain_quantityPricingTable_qdPricingTable__1_iY1 ._p13n-asin-l=
+ist-plain_quantityPricingTable_qdRow__2WzQJ{background-color:#fff;cursor:po=
+inter}._p13n-asin-list-plain_quantityPricingTable_mobile__2LnqI._p13n-asin-=
+list-plain_quantityPricingTable_qdTableInput__1Z2G6{width:95%}._p13n-asin-l=
+ist-plain_quantityPricingTable_qdTableInput__1Z2G6{float:left;margin:10px}.=
+_p13n-asin-list-plain_quantityPricingTable_closeButton__3sVAs{background-co=
+lor:#eee;border-radius:5px;cursor:pointer;float:right;font-weight:100;heigh=
+t:30px;line-height:.85;margin:10px 10px 10px 0;text-align:center;width:30px=
+}
+._p13n-asin-list-plain_quantityDiscounts_qdMessage__3xK5j{color:#007185}._p=
+13n-asin-list-plain_quantityDiscounts_qdMessage__3xK5j:hover{color:#c45000}
+._p13n-asin-list-plain_delightPricingStyles_p13n-delight-pricing-badge__26S=
+9Q{background:#b12704;color:#fff;display:inline-block;padding:2px 10px;posi=
+tion:relative}
+._p13n-asin-list-plain_style_welcome__2Dav7{background:-webkit-linear-gradi=
+ent(#01a4b5,#008296,#383e3e);background:linear-gradient(#01a4b5,#008296,#38=
+3e3e);color:#fff;padding:40px;text-align:center}._p13n-asin-list-plain_styl=
+e_welcome__2Dav7 h1{font-size:4em}._p13n-asin-list-plain_style_welcome__2Da=
+v7 h2{font-size:2.5em}._p13n-asin-list-plain_style_example__286SK{padding:4=
+0px}</style>=20
+               <!--CardsClient-->
+               <table style=3D"width:100%" id=3D"CardInstancegrQcGzDdCTxRFC=
+FQ_zLN-w" data-card-metrics-id=3D"p13n-asin-list-plain_email-digital-order-=
+confirmation_0">
+                <tbody>
+                 <tr>
+                  <td>
+                   <table width=3D"100%" bgcolor=3D"#FFFFFF" style=3D"verti=
+cal-align:central;background:white">
+                    <tbody>
+                     <tr>
+                      <td style=3D"font:18px Arial,sans-serif;text-decorati=
+on:none;color:#cc6600;padding:10px">Recommended for you based on items in y=
+our order</td>
+                     </tr>
+                    </tbody>
+                   </table></td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" style=3D"vertical-align:central;background:white">
+                    <tbody>
+                     <tr>
+                      <td width=3D"48%" bgcolor=3D"#ffffff" style=3D"vertic=
+al-align:middle"><a href=3D"https://www.amazon.com/gp/r.html?C=3D1PODR832RC=
+HMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:20220122103433598e173640764e56859f733=
+c0590p0na&R=3DVSJFQ1WIU6US&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2FOracle-=
+Bones-Journey-Through-China-ebook%2Fdp%2FB000GCFD8Q%2Fref%3Dpe_47689220_607=
+410480_mr_1%2F131-6091035-0083739%2Fref%3Dmr%3F_encoding%3DUTF8%26pd_rd_i%3=
+DB000GCFD8Q%26psc%3D1%26pd_rd_w%3D6Ql4u%26pf_rd_p%3D63822626-b071-4b8a-b32f=
+-b1f977583352%26pf_rd_r%3D9QE8NTD52S2NA5HPARWW%26pd_rd_r%3D86e58043-9bff-45=
+c6-9ed2-3846b845b811%26pd_rd_wg%3Dm54bj&H=3D5AO96T8AI1XVLNMV661LS2UTGXYA&re=
+f_=3Dpe_47689220_607410480_mr_1" style=3D"text-decoration:none">
+                        <table>
+                         <tbody>
+                          <tr>
+                           <td style=3D"min-width:80px;padding:4px;vertical=
+-align:middle"><img style=3D"margin:0 8px 0 8px" src=3D"https://m.media-ama=
+zon.com/images/I/51eRxvQzpeL._AC_SX128_SY128_SS128_.jpg" alt=3D"Oracle Bone=
+s: A Journey Through Time in China" width=3D"128" height=3D"128" /></td>
+                          </tr>
+                          <tr>
+                           <td style=3D"padding:4px;vertical-align:middle">
+                            <table>
+                             <tbody>
+                              <tr>
+                               <td><p style=3D"font:13px Arial,sans-serif;t=
+ext-decoration:none;color:#868686">Oracle Bones: A Journey Through Time...<=
+/p></td>
+                              </tr>
+                              <tr>
+                               <td><span style=3D"font:13px Arial,sans-seri=
+f;text-decoration:none;color:#868686">$8.91</span></td>
+                              </tr>
+                             </tbody>
+                            </table></td>
+                          </tr>
+                         </tbody>
+                        </table></a></td>
+                      <td width=3D"48%" bgcolor=3D"#ffffff" style=3D"vertic=
+al-align:middle"><a href=3D"https://www.amazon.com/gp/r.html?C=3D1PODR832RC=
+HMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:20220122103433598e173640764e56859f733=
+c0590p0na&R=3DP1QGM2982MTL&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2FCountry=
+-Driving-Journey-Through-Factory-ebook%2Fdp%2FB0035D9UX2%2Fref%3Dpe_4768922=
+0_607410480_mr_2%2F131-6091035-0083739%2Fref%3Dmr%3F_encoding%3DUTF8%26pd_r=
+d_i%3DB0035D9UX2%26psc%3D1%26pd_rd_w%3D6Ql4u%26pf_rd_p%3D63822626-b071-4b8a=
+-b32f-b1f977583352%26pf_rd_r%3D9QE8NTD52S2NA5HPARWW%26pd_rd_r%3D86e58043-9b=
+ff-45c6-9ed2-3846b845b811%26pd_rd_wg%3Dm54bj&H=3DX0FVAQINCGZVL5XC38JNTUAZLA=
+MA&ref_=3Dpe_47689220_607410480_mr_2" style=3D"text-decoration:none">
+                        <table>
+                         <tbody>
+                          <tr>
+                           <td style=3D"min-width:80px;padding:4px;vertical=
+-align:middle"><img style=3D"margin:0 8px 0 8px" src=3D"https://m.media-ama=
+zon.com/images/I/91KXmKXWKJL._AC_SX128_SY128_SS128_.jpg" alt=3D"Country Dri=
+ving: A Journey Through China from Farm to Factory" width=3D"128" height=3D=
+"128" /></td>
+                          </tr>
+                          <tr>
+                           <td style=3D"padding:4px;vertical-align:middle">
+                            <table>
+                             <tbody>
+                              <tr>
+                               <td><p style=3D"font:13px Arial,sans-serif;t=
+ext-decoration:none;color:#868686">Country Driving: A Journey Through...</p=
+></td>
+                              </tr>
+                              <tr>
+                               <td><span style=3D"font:13px Arial,sans-seri=
+f;text-decoration:none;color:#868686">$8.96</span></td>
+                              </tr>
+                             </tbody>
+                            </table></td>
+                          </tr>
+                         </tbody>
+                        </table></a></td>
+                     </tr>
+                    </tbody>
+                   </table></td>
+                 </tr>
+                </tbody>
+               </table>
+               <script>if(window.mix_csa){window.mix_csa('[cel_widget_id=3D=
+"p13n-asin-list-plain_email-digital-order-confirmation_0"]')('mark', 'be')}=
+</script>=20
+               <script>if(window.uet){window.uet('be','p13n-asin-list-plain=
+_email-digital-order-confirmation_0',{wb: 1})}</script>=20
+               <script>if(window.mixTimeout){window.mixTimeout('p13n-asin-l=
+ist-plain', 'CardInstancegrQcGzDdCTxRFCFQ_zLN-w', 90000)};
+P.when('mix:@amzn/mix.client-runtime', 'mix:p13n-asin-list-plain__HZEx0OsW'=
+).execute(function (runtime, cardModule) {runtime.registerCardFactory('Card=
+InstancegrQcGzDdCTxRFCFQ_zLN-w', cardModule).then(function(){if(window.mix_=
+csa){window.mix_csa('[cel_widget_id=3D"p13n-asin-list-plain_email-digital-o=
+rder-confirmation_0"]')('mark', 'functional')}if(window.uex){window.uex('ld=
+','p13n-asin-list-plain_email-digital-order-confirmation_0',{wb: 1})}});});
+</script>=20
+               <script>P.load.js('https://images-na.ssl-images-amazon.com/i=
+mages/I/01A1VjF8puL.js?xcp');
+</script>=20
+              </div> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td>=20
+          <table id=3D"legalCopy">=20
+           <tbody>
+            <tr>=20
+             <td> <p>You can view your receipt or invoice by visiting the <=
+a href=3D"https://www.amazon.com/gp/f.html?C=3D1PODR832RCHMD&K=3D2P4G92UUYB=
+9M6&M=3Durn:rtn:msg:20220122103433598e173640764e56859f733c0590p0na&R=3D2JY1=
+P87ID4R40&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fdigital%2Fyour-acco=
+unt%2Forder-summary.html%2Fref%3Dpe_47689220_607410480_TE_M1YA%3ForderID%3D=
+D01-5863344-6310626&H=3DARRFJMFUVMHCPIZAEAAUCPV6RXWA&ref_=3Dpe_47689220_607=
+410480_TE_M1YA">Order details</a> page.</p> <p>This email was sent from a n=
+otification-only address that cannot accept incoming email. Please do not r=
+eply to this message.</p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img width=3D"1" height=3D"1" src=3D"https://www.amazon.com/gp/r.html?C=3D=
+1PODR832RCHMD&K=3D2P4G92UUYB9M6&M=3Durn:rtn:msg:20220122103433598e173640764=
+e56859f733c0590p0na&R=3D1KT7X4TZ5O0AC&T=3DE&U=3Dhttps%3A%2F%2Fimages-na.ssl=
+-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&H=3D6PL6CKXY4CJRH0D=
+UKOADMA1G7L4A&ref_=3Dpe_47689220_607410480_open" /></body>
+</html>
+------=_Part_27922630_245752438.1642847674201--
